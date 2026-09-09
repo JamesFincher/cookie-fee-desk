@@ -1,0 +1,15 @@
+GitHub:
+https://github.com/JamesFincher/cookie-fee-desk
+
+Live URL:
+https://jamesfincher.github.io/cookie-fee-desk/
+
+Q2 addresses (replace SIG after Nightly stamp):
+RPC https://rpc.cookiescan.io · Genesis 9wDaBRDgArEUpvhHxGguNkwozsZh4UpGZB9o2EoEcBB2 · Memo MemoSq4gqABAXKb96qnH8TysNcWxMyWCqXgDLGmfcHr · Stamp tx: SIG
+
+Listing:
+https://superteam.fun/earn/listing/create-an-app-on-cookie-chain-app/
+
+Nightly: https://nightly.app/
+Bridge: https://hyperlane.cookiescan.io
+Demo script: DEMO-SCRIPT.md
