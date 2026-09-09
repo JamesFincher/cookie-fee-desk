@@ -29,7 +29,7 @@ Nightly wallet required. Cookie RPC: https://rpc.cookiescan.io WSS: https://wss.
 - Tx execution + confirm + errors: yes (stamp)
 - App data / analytics: yes (pulse + fee desk + activity)
 - Open source README: yes
-- Live public URL: human deploy (see SUBMIT.md)
+- Live public URL: https://jamesfincher.github.io/cookie-fee-desk/
 - X thread + Telegram: human / SKIP this asleep run
 
 ## Resources
@@ -41,3 +41,8 @@ Nightly wallet required. Cookie RPC: https://rpc.cookiescan.io WSS: https://wss.
 
 ## Honesty
 Not financial advice. No wash volume. Creator fees require organic flow.
+
+## Links
+- Live: https://jamesfincher.github.io/cookie-fee-desk/
+- Repo: https://github.com/JamesFincher/cookie-fee-desk
+- Submit packet: SUBMIT.md
